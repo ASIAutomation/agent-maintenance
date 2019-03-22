@@ -1,0 +1,38 @@
+2018-05-08 14:55:39 INFO  TestBase:148 - ====================================== Starting Add Level 2 Users Batch ======================================
+2018-05-08 14:55:39 INFO  TestBase:148 - Creating object of Chrome
+2018-05-08 14:55:44 INFO  TestBase:148 - 
+======= Starting Case: 1 =======
+2018-05-08 14:55:44 INFO  TestBase:148 - Navigating to https://policy.americanstrategic.com/Policy/Menu.aspx
+2018-05-08 14:55:45 INFO  TestBase:148 - Entered username into agent Login
+2018-05-08 14:55:45 INFO  TestBase:148 - Entered password into agent Login
+2018-05-08 14:55:46 INFO  TestBase:148 - Logged into the agent System
+2018-05-08 14:55:46 INFO  TestBase:148 - Clicked 'Principal User Setup on Main Page
+2018-05-08 14:55:47 INFO  TestBase:148 - Clicked 'add new' on Principal User Setup
+2018-05-08 14:55:47 INFO  TestBase:148 - Typed: u1 in UserID textbox
+2018-05-08 14:55:47 INFO  TestBase:148 - Typed: f1 in Full Name textbox
+2018-05-08 14:55:47 INFO  TestBase:148 - Typed: e1 in Email textbox
+2018-05-08 14:55:47 INFO  TestBase:148 - Typed: 11 in SSN textbox
+2018-05-08 14:55:47 INFO  TestBase:148 - Typed: p1 in Password textbox
+2018-05-08 14:55:47 INFO  TestBase:148 - Selected: Level 2 in the security dropdown
+2018-05-08 14:55:47 INFO  TestBase:148 - Selected: NA in Position dropdown
+2018-05-08 14:55:47 INFO  TestBase:148 - Typed: 01 in DOB textbox
+2018-05-08 14:55:48 INFO  TestBase:148 - Clicked 'Log Out'
+2018-05-08 14:55:48 INFO  TestBase:148 - ======= Case: 1 successfully executed =======
+2018-05-08 14:55:48 INFO  TestBase:148 - 
+======= Starting Case: 2 =======
+2018-05-08 14:55:48 INFO  TestBase:148 - Navigating to https://policy.americanstrategic.com/Policy/Menu.aspx
+2018-05-08 14:55:48 INFO  TestBase:148 - Entered username into agent Login
+2018-05-08 14:55:48 INFO  TestBase:148 - Entered password into agent Login
+2018-05-08 14:55:49 INFO  TestBase:148 - Logged into the agent System
+2018-05-08 14:55:49 INFO  TestBase:148 - Clicked 'Principal User Setup on Main Page
+2018-05-08 14:55:50 INFO  TestBase:148 - Clicked 'add new' on Principal User Setup
+2018-05-08 14:55:50 INFO  TestBase:148 - Typed: u2 in UserID textbox
+2018-05-08 14:55:50 INFO  TestBase:148 - Typed: f2 in Full Name textbox
+2018-05-08 14:55:50 INFO  TestBase:148 - Typed: e2 in Email textbox
+2018-05-08 14:55:50 INFO  TestBase:148 - Typed: 12 in SSN textbox
+2018-05-08 14:55:50 INFO  TestBase:148 - Typed: p2 in Password textbox
+2018-05-08 14:55:50 INFO  TestBase:148 - Selected: Level 2 in the security dropdown
+2018-05-08 14:55:50 INFO  TestBase:148 - Selected: NA in Position dropdown
+2018-05-08 14:55:50 INFO  TestBase:148 - Typed: 02 in DOB textbox
+2018-05-08 14:55:51 INFO  TestBase:148 - Clicked 'Log Out'
+2018-05-08 14:55:51 INFO  TestBase:148 - ======= Case: 2 successfully executed =======

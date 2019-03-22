@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="Automation.AGM.AccountType_Update">
+        <methods>
+          <include name="SetUp"/>
+          <include name="EndBatch"/>
+          <include name="Run_AccountType_Update" invocation-numbers="68 105 141 171 277 282 285 286 293 294 295 303 304 305 306 307 308 309 316 318 337 362 366 369 370 380 385 386 389 392 394 400 401 405 406 407 413 414 415 417 419 420 423 424 425 426 427 428 429 430 431 432 433 434 438 445 463 475 479 480 486 491 553 568 575 631 637 639 643 665 669 675 679 694 695 702 761 768 828 855 884 899 924 927 928 932 936 940 942 949 965 966 967 968 1001 1002 1003 1004 1006 1013 1044 1045 1046 1051 1052 1053 1054 1055 1056 1057 1059 1060 1061 1062 1063 1065 1066 1068 1069 1071 1072 1073 1074 1075 1076 1077 1081 1107 1108 1109"/>
+        </methods>
+      </class> <!-- Automation.AGM.AccountType_Update -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

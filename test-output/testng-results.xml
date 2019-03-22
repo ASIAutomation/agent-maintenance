@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[====================================== Starting LicenseFieldUpdate Batch ======================================]]>
+    </line>
+    <line>
+      <![CDATA[Creating object of Firefox]]>
+    </line>
+    <line>
+      <![CDATA[Firefox object created]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to https://policy.americanstrategic.com/Login.aspx]]>
+    </line>
+    <line>
+      <![CDATA[Entered username into Agent Login]]>
+    </line>
+    <line>
+      <![CDATA[Entered password into Agent Login]]>
+    </line>
+    <line>
+      <![CDATA[Logged into Agent Login]]>
+    </line>
+    <line>
+      <![CDATA[========================= Starting Case 1 =========================]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Agent Maintenance Lookup (https://policy.americanstrategic.com/AgentMaintenance/Lookup.aspx)]]>
+    </line>
+    <line>
+      <![CDATA[Entered AgentID: 446170]]>
+    </line>
+    <line>
+      <![CDATA[Looked up AgentID: 446170]]>
+    </line>
+    <line>
+      <![CDATA[Entered License Number: 113457]]>
+    </line>
+    <line>
+      <![CDATA[Entered License Type: Test2 type]]>
+    </line>
+    <line>
+      <![CDATA[Entered License Expire Date: 01/01/2020]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Notes and Messages" button on the Agent Information page]]>
+    </line>
+    <line>
+      <![CDATA[Entered Add Notes: Test note for AgentID 446170]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Next" button on the Notes and Messages page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Finish" button on the Confirmation page]]>
+    </line>
+    <line>
+      <![CDATA[========================= End Case 1 =========================]]>
+    </line>
+    <line>
+      <![CDATA[========================= Starting Case 2 =========================]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Agent Maintenance Lookup (https://policy.americanstrategic.com/AgentMaintenance/Lookup.aspx)]]>
+    </line>
+    <line>
+      <![CDATA[Entered AgentID: 446192]]>
+    </line>
+    <line>
+      <![CDATA[Looked up AgentID: 446192]]>
+    </line>
+    <line>
+      <![CDATA[Entered License Number: 113458]]>
+    </line>
+    <line>
+      <![CDATA[Entered License Type: Test3 type]]>
+    </line>
+    <line>
+      <![CDATA[Entered License Expire Date: 01/01/2020]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Notes and Messages" button on the Agent Information page]]>
+    </line>
+    <line>
+      <![CDATA[Entered Add Notes: Test note for AgentID 446192]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Next" button on the Notes and Messages page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Finish" button on the Confirmation page]]>
+    </line>
+    <line>
+      <![CDATA[========================= End Case 2 =========================]]>
+    </line>
+    <line>
+      <![CDATA[========================= Starting Case 3 =========================]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Agent Maintenance Lookup (https://policy.americanstrategic.com/AgentMaintenance/Lookup.aspx)]]>
+    </line>
+    <line>
+      <![CDATA[Entered AgentID: 446371]]>
+    </line>
+    <line>
+      <![CDATA[Looked up AgentID: 446371]]>
+    </line>
+    <line>
+      <![CDATA[Entered License Number: 113459]]>
+    </line>
+    <line>
+      <![CDATA[Entered License Type: Test4 type]]>
+    </line>
+    <line>
+      <![CDATA[Entered License Expire Date: 01/01/2020]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Notes and Messages" button on the Agent Information page]]>
+    </line>
+    <line>
+      <![CDATA[Entered Add Notes: Test note for AgentID 446371]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Next" button on the Notes and Messages page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Finish" button on the Confirmation page]]>
+    </line>
+    <line>
+      <![CDATA[========================= End Case 3 =========================]]>
+    </line>
+    <line>
+      <![CDATA[========================= Starting Case 4 =========================]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Agent Maintenance Lookup (https://policy.americanstrategic.com/AgentMaintenance/Lookup.aspx)]]>
+    </line>
+    <line>
+      <![CDATA[Entered AgentID: 446405]]>
+    </line>
+    <line>
+      <![CDATA[Looked up AgentID: 446405]]>
+    </line>
+    <line>
+      <![CDATA[Entered License Number: 113460]]>
+    </line>
+    <line>
+      <![CDATA[Entered License Type: Test5 type]]>
+    </line>
+    <line>
+      <![CDATA[Entered License Expire Date: 01/01/2020]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Notes and Messages" button on the Agent Information page]]>
+    </line>
+    <line>
+      <![CDATA[Entered Add Notes: Test note for AgentID 446405]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Next" button on the Notes and Messages page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked the "Finish" button on the Confirmation page]]>
+    </line>
+    <line>
+      <![CDATA[========================= End Case 4 =========================]]>
+    </line>
+    <line>
+      <![CDATA[Firefox has quit]]>
+    </line>
+    <line>
+      <![CDATA[====================================== End LicenseFieldUpdate Batch ======================================]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2018-03-05T15:32:43Z" name="Default suite" finished-at="2018-03-05T15:33:27Z" duration-ms="44201">
+    <groups>
+    </groups>
+    <test started-at="2018-03-05T15:32:43Z" name="Default test" finished-at="2018-03-05T15:33:27Z" duration-ms="44201">
+      <class name="Automation.AGM.LicenseFieldUpdateScript">
+        <test-method is-config="true" signature="StartBatch()[pri:0, instance:Automation.AGM.LicenseFieldUpdateScript@4310d43]" started-at="2018-03-05T10:32:43Z" name="StartBatch" finished-at="2018-03-05T10:32:53Z" duration-ms="10194" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====================================== Starting LicenseFieldUpdate Batch ======================================]]>
+            </line>
+            <line>
+              <![CDATA[Creating object of Firefox]]>
+            </line>
+            <line>
+              <![CDATA[Firefox object created]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to https://policy.americanstrategic.com/Login.aspx]]>
+            </line>
+            <line>
+              <![CDATA[Entered username into Agent Login]]>
+            </line>
+            <line>
+              <![CDATA[Entered password into Agent Login]]>
+            </line>
+            <line>
+              <![CDATA[Logged into Agent Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- StartBatch -->
+        <test-method signature="RunLicenseFieldUpdate(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Automation.AGM.LicenseFieldUpdateScript@4310d43]" started-at="2018-03-05T10:32:54Z" name="RunLicenseFieldUpdate" data-provider="licensefieldupdatedata" finished-at="2018-03-05T10:33:03Z" duration-ms="9170" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[446170]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[113457]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test2 type]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[01/01/2020]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Test note for AgentID 446170]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[========================= Starting Case 1 =========================]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to Agent Maintenance Lookup (https://policy.americanstrategic.com/AgentMaintenance/Lookup.aspx)]]>
+            </line>
+            <line>
+              <![CDATA[Entered AgentID: 446170]]>
+            </line>
+            <line>
+              <![CDATA[Looked up AgentID: 446170]]>
+            </line>
+            <line>
+              <![CDATA[Entered License Number: 113457]]>
+            </line>
+            <line>
+              <![CDATA[Entered License Type: Test2 type]]>
+            </line>
+            <line>
+              <![CDATA[Entered License Expire Date: 01/01/2020]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Notes and Messages" button on the Agent Information page]]>
+            </line>
+            <line>
+              <![CDATA[Entered Add Notes: Test note for AgentID 446170]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Next" button on the Notes and Messages page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Finish" button on the Confirmation page]]>
+            </line>
+            <line>
+              <![CDATA[========================= End Case 1 =========================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- RunLicenseFieldUpdate -->
+        <test-method signature="RunLicenseFieldUpdate(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Automation.AGM.LicenseFieldUpdateScript@4310d43]" started-at="2018-03-05T10:33:03Z" name="RunLicenseFieldUpdate" data-provider="licensefieldupdatedata" finished-at="2018-03-05T10:33:11Z" duration-ms="7954" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[446192]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[113458]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test3 type]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[01/01/2020]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Test note for AgentID 446192]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[========================= Starting Case 2 =========================]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to Agent Maintenance Lookup (https://policy.americanstrategic.com/AgentMaintenance/Lookup.aspx)]]>
+            </line>
+            <line>
+              <![CDATA[Entered AgentID: 446192]]>
+            </line>
+            <line>
+              <![CDATA[Looked up AgentID: 446192]]>
+            </line>
+            <line>
+              <![CDATA[Entered License Number: 113458]]>
+            </line>
+            <line>
+              <![CDATA[Entered License Type: Test3 type]]>
+            </line>
+            <line>
+              <![CDATA[Entered License Expire Date: 01/01/2020]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Notes and Messages" button on the Agent Information page]]>
+            </line>
+            <line>
+              <![CDATA[Entered Add Notes: Test note for AgentID 446192]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Next" button on the Notes and Messages page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Finish" button on the Confirmation page]]>
+            </line>
+            <line>
+              <![CDATA[========================= End Case 2 =========================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- RunLicenseFieldUpdate -->
+        <test-method signature="RunLicenseFieldUpdate(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Automation.AGM.LicenseFieldUpdateScript@4310d43]" started-at="2018-03-05T10:33:11Z" name="RunLicenseFieldUpdate" data-provider="licensefieldupdatedata" finished-at="2018-03-05T10:33:17Z" duration-ms="6434" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[446371]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[113459]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test4 type]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[01/01/2020]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Test note for AgentID 446371]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[========================= Starting Case 3 =========================]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to Agent Maintenance Lookup (https://policy.americanstrategic.com/AgentMaintenance/Lookup.aspx)]]>
+            </line>
+            <line>
+              <![CDATA[Entered AgentID: 446371]]>
+            </line>
+            <line>
+              <![CDATA[Looked up AgentID: 446371]]>
+            </line>
+            <line>
+              <![CDATA[Entered License Number: 113459]]>
+            </line>
+            <line>
+              <![CDATA[Entered License Type: Test4 type]]>
+            </line>
+            <line>
+              <![CDATA[Entered License Expire Date: 01/01/2020]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Notes and Messages" button on the Agent Information page]]>
+            </line>
+            <line>
+              <![CDATA[Entered Add Notes: Test note for AgentID 446371]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Next" button on the Notes and Messages page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Finish" button on the Confirmation page]]>
+            </line>
+            <line>
+              <![CDATA[========================= End Case 3 =========================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- RunLicenseFieldUpdate -->
+        <test-method signature="RunLicenseFieldUpdate(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Automation.AGM.LicenseFieldUpdateScript@4310d43]" started-at="2018-03-05T10:33:17Z" name="RunLicenseFieldUpdate" data-provider="licensefieldupdatedata" finished-at="2018-03-05T10:33:26Z" duration-ms="8433" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[446405]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[113460]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test5 type]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[01/01/2020]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Test note for AgentID 446405]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[========================= Starting Case 4 =========================]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to Agent Maintenance Lookup (https://policy.americanstrategic.com/AgentMaintenance/Lookup.aspx)]]>
+            </line>
+            <line>
+              <![CDATA[Entered AgentID: 446405]]>
+            </line>
+            <line>
+              <![CDATA[Looked up AgentID: 446405]]>
+            </line>
+            <line>
+              <![CDATA[Entered License Number: 113460]]>
+            </line>
+            <line>
+              <![CDATA[Entered License Type: Test5 type]]>
+            </line>
+            <line>
+              <![CDATA[Entered License Expire Date: 01/01/2020]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Notes and Messages" button on the Agent Information page]]>
+            </line>
+            <line>
+              <![CDATA[Entered Add Notes: Test note for AgentID 446405]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Next" button on the Notes and Messages page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked the "Finish" button on the Confirmation page]]>
+            </line>
+            <line>
+              <![CDATA[========================= End Case 4 =========================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- RunLicenseFieldUpdate -->
+        <test-method is-config="true" signature="EndBatch()[pri:0, instance:Automation.AGM.LicenseFieldUpdateScript@4310d43]" started-at="2018-03-05T10:33:26Z" name="EndBatch" finished-at="2018-03-05T10:33:27Z" duration-ms="1065" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Firefox has quit]]>
+            </line>
+            <line>
+              <![CDATA[====================================== End LicenseFieldUpdate Batch ======================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EndBatch -->
+      </class> <!-- Automation.AGM.LicenseFieldUpdateScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
